@@ -1,0 +1,30 @@
+
+
+var ward = Intersects($feature, FeatureSetByName($map, "Council Wards"))
+var wardname = ""
+for (var f in ward){
+  wardname = f.NAME
+}
+return wardname
+// returns wardname in popup but not in expression editor
+
+
+var instrument = Intersects($feature, FeatureSetByName($map, "Annexation History"))
+var instrumentname = ""
+for (var f in instrument){
+  instrumentname = f.Instrument
+}
+return instrumentname
+//output instrument name
+
+var annexdate = Intersects($feature, FeatureSetByName($map, "Annexation History"))
+var annexdatename = "Effective date not found."
+for (var f in annexdate){
+  annexdatename = f.EFF_DATE
+}
+return annexdatename
+//output is annexataion date
+
+
+
+
