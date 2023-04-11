@@ -1,7 +1,7 @@
 # Arcade Library - City of Dublin, Ohio
 ![thumbnail_Outlook-Dublin, Oh](https://user-images.githubusercontent.com/124072144/231218480-d9451ccb-e069-4033-9a1c-eb45cfa206cf.png)
 
-This respository organizes examples of Arcade expressions based on their function and language features. We use this repo internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS development. 
+This respository organizes examples of Arcade expressions based on their function and language features. We use this repository internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS development. 
 ### Organization
 Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the **intersects folder** which is nested in the **GeometryFunctions folder** For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, a file containing intersect functions used to create informative pop-ups in a webmap for the Legislative Affairs work unit is named *LegislativeAffairsPopUps* in the **intersects folder**. 
 
