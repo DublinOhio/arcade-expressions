@@ -3,7 +3,7 @@ Thank you for contributing to our growing library of arcade expressions for GIS 
 Here are some important resources:
 - [City of Dublin, Ohio](https://dublinohiousa.gov/city-profile/) tells you more about who we are.
 - [ArcGIS Arcade Library](https://developers.arcgis.com/arcade/) gives you an overview of arcade. 
-  - Our organizational sysem closely follows the structure of this resource. In order to maintain order, we ask that you follow this structure. 
+  - Our organizational sysem closely follows the structure of this resource. When contributing, we ask that you follow this structure. 
 
 ## Submitting changes
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
