@@ -12,7 +12,7 @@ Here are some important resources:
   - Our organizational sysem closely follows the structure of this resource. When contributing, we ask that you follow this structure. 
 
 ### Submitting changes
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Any contributions you make are greatly appreciated.
 
 If you have a suggestion/addition that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again!
 
