@@ -16,5 +16,6 @@ If you have a suggestion/addition that would make this better, please fork the r
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
+## Additional Information
 To learn more about pull requests please click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
 The purpose of this project is to organize a library of arcade expressions. Read more about coding conventions within arcade [here](https://developers.arcgis.com/arcade/guide/statements/).
