@@ -1,0 +1,27 @@
+// Write a script to return a value to show in the pop-up.
+// For example, get the average of 4 fields:
+// StreetNameGuesserPoints_2616 
+//Base_Map_Subtle_9861
+// Average($feature.SalesQ1, $feature.SalesQ2, $feature.SalesQ3, $feature.SalesQ4)
+
+  var searchDistance = 100;
+  var streets = FeatureSetByName($map, "Streets");
+  // returns all streets within 100m of the point
+  var closestStreets = Intersects( streets, BufferGeodetic( $feature, searchDistance, "meters") );
+  var minDistance = Infinity;
+  var closestStreet;
+  // Of the streets within 500m of the point,
+  // the closest one is returned along with the distance
+  for (var listing in closestStreets){
+    var pointDist = Distance(listing, $feature, "meters");
+    if(pointDist < minDistance){
+      minDistance = pointDist;
+      closestStreet = listing;
+    }
+  };
+  
+  var answer = closestStreet.LSN;
+  var guess = Upper($feature.StreetNameGuess);
+  var guessInAnswer = Find(guess, answer);
+  var res = IIf(guessInAnswer != -1, "Correct! The closest street is " + answer , "Sorry, the closest street is "+answer);
+  return res
