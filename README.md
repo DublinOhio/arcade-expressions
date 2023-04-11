@@ -17,9 +17,9 @@ Here are some important resources:
 ### Submitting changes
 Any contributions you make are greatly appreciated. When adding a new file of arcade script, we recommend including a few notes describing what your script accomplishes. 
 
-If you have wish to add a file/make a change, best practice is to create changes in a branch and submit a pull request. This lets you discuss and review potential changes with collaborators and add follow-up commits before making changes to the main branch. However, as administrators through DublinOhio, you will have permission to directly commit changes to the main branch without submitting a pull request. 
+If you wish to add a file/make a change, the best practice is to create changes in a branch and submit a pull request. This lets you discuss and review potential changes with collaborators and add follow-up commits before making changes to the main branch. However, as administrators through DublinOhio, you will have permission to directly commit changes to the main branch without submitting a pull request. 
 
-Make Changes: 
+**Make Changes:** 
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
