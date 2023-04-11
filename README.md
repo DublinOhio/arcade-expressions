@@ -3,7 +3,7 @@
 
 This respository organizes examples of arcade expressions based on their function and language features. We use this repo internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS dev. 
 ### Organization
-Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the intersects folder. For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, intersect functions used to create a legislative affairs map is named *LegislativeAffairsArcadeExpressions* in the **intersect folder**. 
+Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the **intersects folder**. For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, intersect functions used to create a legislative affairs map is named *LegislativeAffairsArcadeExpressions* in the **intersects folder**. 
 
 
 ## How to Contribute
