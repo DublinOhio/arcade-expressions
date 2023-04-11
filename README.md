@@ -28,8 +28,9 @@ If you wish to add a file/make a change, the best practice is to create changes 
 5. Open a Pull Request
 
 ### Additional Information
-To learn more about pull requests please click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
-The purpose of this project is to organize a library of arcade expressions. Read more about coding conventions within arcade [here](https://developers.arcgis.com/arcade/guide/statements/).
+- Please see our [CONTRIBUTING.md](https://github.com/DublinOhio/arcade-expressions/blob/main/CONTRIBUTING.md) to learn more information about adding files, folders, and text formatting. 
+- To learn more about pull requests please click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
+- The purpose of this project is to organize a library of arcade expressions. Read more about coding conventions within arcade [here](https://developers.arcgis.com/arcade/guide/statements/).
 
 ## License
 Distributed under the General Public License version 3. See `LICENSE` for more information. 
