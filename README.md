@@ -25,7 +25,7 @@ If you have a suggestion/addition that would make this better, please fork the r
 ### Additional Information
 To learn more about pull requests please click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
 The purpose of this project is to organize a library of arcade expressions. Read more about coding conventions within arcade [here](https://developers.arcgis.com/arcade/guide/statements/).
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 Distributed under the General Public License version 3. See `LICENSE` for more information. 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
