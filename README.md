@@ -1,9 +1,9 @@
 # Arcade Library - City of Dublin, Ohio
 ![thumbnail_Outlook-Dublin, Oh](https://user-images.githubusercontent.com/124072144/231218480-d9451ccb-e069-4033-9a1c-eb45cfa206cf.png)
 
-This respository organizes examples of arcade expressions based on their function and language features. We use this repo internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS dev. 
+This respository organizes examples of Arcade expressions based on their function and language features. We use this repo internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS dev. 
 ### Organization
-Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the **intersects folder**. For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, intersect functions used to create a legislative affairs map is named *LegislativeAffairsArcadeExpressions* in the **intersects folder**. 
+Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the **intersects folder** which is nested in the **GeometryFunctions folder** For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, a file containing intersect functions used to create informative pop-ups in a webmap for the Legislative Affairs work unit is named *LegislativeAffairsPopUps* in the **intersects folder**. 
 
 
 ## How to Contribute
@@ -11,12 +11,15 @@ Thank you for contributing to our growing library of arcade expressions for GIS 
 Here are some important resources:
 - [City of Dublin, Ohio](https://dublinohiousa.gov/city-profile/) tells you more about who we are.
 - [ArcGIS Arcade Library](https://developers.arcgis.com/arcade/) gives you an overview of arcade. 
-  - Our organizational sysem closely follows the structure of this resource. When contributing, we ask that you follow this structure. 
+- [ArcGIS Arcade Function Reference](https://developers.arcgis.com/arcade/function-reference/geometry_functions/) provides general examples of Arcade functions. 
+  - ***Our organizational sysem closely follows the structure of this resource. When contributing, we ask that you follow this structure.*** 
 
 ### Submitting changes
 Any contributions you make are greatly appreciated. When adding a new file of arcade script, we recommend including a few notes describing what your script accomplishes. 
 
-If you have a suggestion/addition that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again!
+If you have wish to add a file/make a change, best practice is to create changes in a branch and submit a pull request. This lets you discuss and review potential changes with collaborators and add follow-up commits before making changes to the main branch. However, as administrators through DublinOhio, you will have permission to directly commit changes to the main branch without submitting a pull request. 
+
+Make Changes: 
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
