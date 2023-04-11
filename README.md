@@ -3,8 +3,8 @@
 
 This respository organizes examples of arcade expressions based on their function and language features. We use this repo internally to gather and organize examples of arcade script within our projects. It is our hope that this tool will create a more streamlined way of learning, utilizing, and ~stealing~ repurposing arcade script, especially in the context of local government GIS dev. 
 ### Organization
-Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the intersects folder. For naming conventions, we recommend a brief explanation of the project purpose. For example,  intersect functions used to create a legislative affairs map is named *LegislativeAffairsArcadeExpressions* in the **intersect folder**. 
-[ screenshot of organization ]
+Files/script examples should be organized into folders based on their function/language feature. For example, intersect functions examples should be included in the intersects folder. For naming conventions, we recommend a brief explanation of the project purpose/work unit. For example, intersect functions used to create a legislative affairs map is named *LegislativeAffairsArcadeExpressions* in the **intersect folder**. 
+
 
 ## How to Contribute
 Thank you for contributing to our growing library of arcade expressions for GIS users and developers in local government!
@@ -14,7 +14,7 @@ Here are some important resources:
   - Our organizational sysem closely follows the structure of this resource. When contributing, we ask that you follow this structure. 
 
 ### Submitting changes
-Any contributions you make are greatly appreciated.
+Any contributions you make are greatly appreciated. When adding a new file of arcade script, we recommend including a few notes describing what your script accomplishes. 
 
 If you have a suggestion/addition that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Thanks again!
 
