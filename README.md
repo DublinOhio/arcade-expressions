@@ -19,7 +19,7 @@ Any contributions you make are greatly appreciated. When adding a new file of ar
 
 If you wish to add a file/make a change, the best practice is to create changes in a branch and submit a pull request. This lets you discuss and review potential changes with collaborators and add follow-up commits before making changes to the main branch. However, as administrators through DublinOhio, you will have permission to directly commit changes to the main branch without submitting a pull request. 
 
-**Make Changes:** 
+**Make Changes Overview:** 
 
 1. Fork the Project (if outside the City of Dublin)
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
