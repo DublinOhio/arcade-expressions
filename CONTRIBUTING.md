@@ -13,11 +13,12 @@ If you wish to add a file/make a change, the best practice is to create changes 
 
 **Make Changes:** 
 
-1. Fork the Project
+1. Fork the Project (if outside the City of Dublin)
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
 3. Commit your Changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+6. (Administrator) Merge pull request (accept changes)
 
 ### Additional Information
 To learn more about pull requests please click [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). 
