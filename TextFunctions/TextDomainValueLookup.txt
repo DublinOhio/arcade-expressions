@@ -1,0 +1,5 @@
+// Pull the domain value from a domain
+// I.e. OH for state = Ohio, in example below, gathering predefined diameters of pipes
+
+// text string + the value from the domain "Diameter"
+"Size: " + DomainName($feature, 'Diameter') 
