@@ -21,11 +21,12 @@ If you wish to add a file/make a change, the best practice is to create changes 
 
 **Make Changes:** 
 
-1. Fork the Project
+1. Fork the Project (if outside the City of Dublin)
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
 3. Commit your Changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
+6. (Administrator) Merge pull request (accept changes)
 
 ### Additional Information
 - Please see our [CONTRIBUTING.md](https://github.com/DublinOhio/arcade-expressions/blob/main/CONTRIBUTING.md) to learn more information about adding files, folders, and text formatting. 
