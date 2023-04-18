@@ -11,6 +11,20 @@ Any contributions you make are greatly appreciated. When adding a new file of ar
 
 If you wish to add a file/make a change, the best practice is to create changes in a branch and submit a pull request. This lets you discuss and review potential changes with collaborators and add follow-up commits before making changes to the main branch. However, as administrators through DublinOhio, you will have permission to directly commit changes to the main branch without submitting a pull request. 
 
+**Make Changes by Dublin Staff**
+
+1. Navigate to Directory
+![image](https://user-images.githubusercontent.com/124072144/232849899-a457155c-808e-4d4f-90f2-290bbf1afc64.png)
+
+2. Create File
+![image](https://user-images.githubusercontent.com/124072144/232850227-81bd26d5-6b18-47d5-b7cf-f7d31758dbf4.png)
+
+3. Name File
+![image](https://user-images.githubusercontent.com/124072144/232850485-82729dad-f4c4-4413-85ee-d01d5cb7f6f1.png)
+
+4. Commit Changes to Main Branch
+![image](https://user-images.githubusercontent.com/124072144/232850652-08dfe204-aaea-4b19-bff0-40202ef88464.png)
+
 **Make Changes:** 
 
 1. Fork the Project (if outside the City of Dublin)
